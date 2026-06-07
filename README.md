@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.73-9cf)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 [![PyQt](https://img.shields.io/badge/PyQt-5%20or%206-purple)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
-
+## This project is prob not going to ever get updates.  It was a project that I used to solve a problem quickly and to learn on and its pretty bad.
 
 POS system using rfid, raspberrypi, python, and mysql
 
